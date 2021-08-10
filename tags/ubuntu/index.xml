@@ -5,11 +5,7 @@
     <link>https://shariq1989.github.io/tags/ubuntu/</link>
     <description>Recent content in Ubuntu on Shariq Jamil | dev-blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 20 Mar 2021 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://shariq1989.github.io/tags/ubuntu/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 20 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://shariq1989.github.io/tags/ubuntu/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Installing Hugo in Linux (Ubuntu)</title>
       <link>https://shariq1989.github.io/posts/installing_hugo/</link>
