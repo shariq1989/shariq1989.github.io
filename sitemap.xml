@@ -1,174 +1,111 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
+    <loc>https://shariq1989.github.io/posts/search_for_hugo/</loc>
+    <lastmod>2021-11-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shariq1989.github.io/tags/blogging/</loc>
+    <lastmod>2021-11-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shariq1989.github.io/tags/development/</loc>
+    <lastmod>2021-11-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shariq1989.github.io/tags/hugo/</loc>
+    <lastmod>2021-11-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shariq1989.github.io/posts/</loc>
+    <lastmod>2021-11-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shariq1989.github.io/</loc>
+    <lastmod>2021-11-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shariq1989.github.io/tags/</loc>
+    <lastmod>2021-11-26T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://shariq1989.github.io/tags/biking/</loc>
     <lastmod>2021-10-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq1989.github.io/posts/biking/</loc>
     <lastmod>2021-10-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq1989.github.io/tags/health/</loc>
     <lastmod>2021-10-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shariq1989.github.io/posts/</loc>
-    <lastmod>2021-10-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shariq1989.github.io/</loc>
-    <lastmod>2021-10-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shariq1989.github.io/tags/</loc>
-    <lastmod>2021-10-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shariq1989.github.io/tags/development/</loc>
-    <lastmod>2021-10-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq1989.github.io/tags/git/</loc>
     <lastmod>2021-10-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq1989.github.io/tags/github/</loc>
     <lastmod>2021-10-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq1989.github.io/posts/github_not_found/</loc>
     <lastmod>2021-10-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq1989.github.io/tags/bash/</loc>
     <lastmod>2021-09-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shariq1989.github.io/tags/blogging/</loc>
-    <lastmod>2021-09-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shariq1989.github.io/tags/hugo/</loc>
-    <lastmod>2021-09-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq1989.github.io/tags/image-optimization/</loc>
     <lastmod>2021-09-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq1989.github.io/posts/optimizing_images_revisited/</loc>
     <lastmod>2021-09-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq1989.github.io/tags/scripting/</loc>
     <lastmod>2021-09-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq1989.github.io/tags/google-search-console/</loc>
     <lastmod>2021-09-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq1989.github.io/posts/google_search_console_verification/</loc>
     <lastmod>2021-09-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq1989.github.io/tags/namecheap/</loc>
     <lastmod>2021-09-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq1989.github.io/posts/migrating_wordpress_site/</loc>
     <lastmod>2021-08-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq1989.github.io/tags/linux/</loc>
     <lastmod>2021-08-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq1989.github.io/posts/mass_updates_wordpress_site/</loc>
     <lastmod>2021-08-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq1989.github.io/tags/wordpress/</loc>
     <lastmod>2021-08-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq1989.github.io/posts/wiping_disks/</loc>
     <lastmod>2021-04-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq1989.github.io/tags/life-hacks/</loc>
     <lastmod>2021-04-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq1989.github.io/posts/find_move/</loc>
     <lastmod>2021-03-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq1989.github.io/posts/optimizing_images/</loc>
     <lastmod>2021-03-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq1989.github.io/posts/adding_content/</loc>
     <lastmod>2021-03-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq1989.github.io/posts/setting_up_hugo/</loc>
     <lastmod>2021-03-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq1989.github.io/posts/installing_hugo/</loc>
     <lastmod>2021-03-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq1989.github.io/tags/ubuntu/</loc>
     <lastmod>2021-03-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq1989.github.io/tags/netlify/</loc>
     <lastmod>2021-03-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq1989.github.io/posts/intro/</loc>
     <lastmod>2021-03-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shariq1989.github.io/categories/</loc>
+  </url><url>
+    <loc>https://shariq1989.github.io/search/</loc>
   </url>
-  
 </urlset>
