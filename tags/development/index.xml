@@ -5,7 +5,17 @@
     <link>https://shariq1989.github.io/tags/development/</link>
     <description>Recent content in Development on Shariq Jamil | dev-blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 27 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://shariq1989.github.io/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://shariq1989.github.io/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Find and replace text in Linux terminal, bash scripts or Jenkinsfiles</title>
+      <link>https://shariq1989.github.io/posts/linux_find_replace/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://shariq1989.github.io/posts/linux_find_replace/</guid>
+      <description>I manage the build process for Android applications. Part of the process automatically updates the version of the application in various build.gradle files. In a Jenkinsfile, a list of file paths are passed into a for-loop in which the find-and-replace sed command is run to set the new version number.
+Sed for Find-and-Replace Sed is a library used for performing all sorts of text operations, which makes it very handy for scripting related work.</description>
+    </item>
+    
     <item>
       <title>Automated image optimization for publishing on a blog</title>
       <link>https://shariq1989.github.io/posts/automated_image_optimization/</link>
