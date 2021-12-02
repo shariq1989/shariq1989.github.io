@@ -7,6 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://shariq1989.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Advent of Code</title>
+      <link>https://shariq1989.github.io/tags/advent-of-code/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://shariq1989.github.io/tags/advent-of-code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Bash</title>
       <link>https://shariq1989.github.io/tags/bash/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
@@ -30,6 +39,15 @@
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://shariq1989.github.io/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://shariq1989.github.io/tags/python/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://shariq1989.github.io/tags/python/</guid>
       <description></description>
     </item>
     

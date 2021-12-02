@@ -17,6 +17,16 @@ Sed for Find-and-Replace Sed is a library used for performing all sorts of text 
     </item>
     
     <item>
+      <title>Solution for Advent of Code 2021 - Day 1</title>
+      <link>https://shariq1989.github.io/posts/aoc_2021_d1/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://shariq1989.github.io/posts/aoc_2021_d1/</guid>
+      <description>To count the number of increases in depth, this function iterates over the given input and checks to see if the previous number was smaller than the current one. If so, the counter gets incremented. At the end, the value of the counter is printed which refers to the total number of times that the depth measurement increased.
+def day1(): input_file = open(&amp;quot;day1/day1-input&amp;quot;) lines = input_file.readlines() counter = 0 for index, line in enumerate(lines): if index !</description>
+    </item>
+    
+    <item>
       <title>Automated image optimization for publishing on a blog</title>
       <link>https://shariq1989.github.io/posts/automated_image_optimization/</link>
       <pubDate>Sat, 27 Nov 2021 00:00:00 +0000</pubDate>

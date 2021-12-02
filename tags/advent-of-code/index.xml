@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Advent of Code on Shariq Jamil | dev-blog</title>
+    <link>https://shariq1989.github.io/tags/advent-of-code/</link>
+    <description>Recent content in Advent of Code on Shariq Jamil | dev-blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://shariq1989.github.io/tags/advent-of-code/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Solution for Advent of Code 2021 - Day 1</title>
+      <link>https://shariq1989.github.io/posts/aoc_2021_d1/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://shariq1989.github.io/posts/aoc_2021_d1/</guid>
+      <description>To count the number of increases in depth, this function iterates over the given input and checks to see if the previous number was smaller than the current one. If so, the counter gets incremented. At the end, the value of the counter is printed which refers to the total number of times that the depth measurement increased.
+def day1(): input_file = open(&amp;quot;day1/day1-input&amp;quot;) lines = input_file.readlines() counter = 0 for index, line in enumerate(lines): if index !</description>
+    </item>
+    
+  </channel>
+</rss>
